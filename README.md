@@ -25,14 +25,14 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-![Desktop Interface](./screenshots/desktop-interface.png)
-![Mobile Interface](./screenshots/mobile-interface.png)
+[Desktop Interface](./screenshots/desktop-interface.png)
+[Mobile Interface](./screenshots/mobile-interface.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JCBolito/FM-Stats_Preview_Card_Component_Main)
-- Live Site URL: [Add live site URL here](https://jcbolito.github.io/FM-Stats_Preview_Card_Component_Main/)
+- Solution URL: [GitHub Repository](https://github.com/JCBolito/FM-Stats_Preview_Card_Component_Main)
+- Live Site URL: [GitHub Pages](https://jcbolito.github.io/FM-Stats_Preview_Card_Component_Main/)
 
 ## My process
 Breaking down the project into smaller chunks, the following processes were taken to guarantee the project's completion:
