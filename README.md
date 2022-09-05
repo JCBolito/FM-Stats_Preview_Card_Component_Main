@@ -25,8 +25,8 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-[Desktop Interface](./screenshots/desktop-interface.png)
-[Mobile Interface](./screenshots/mobile-interface.png)
+![Desktop Interface](./screenshots/desktop-interface.png)
+![Mobile Interface](./screenshots/mobile-interface.png)
 
 
 ### Links
